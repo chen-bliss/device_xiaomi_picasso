@@ -2,7 +2,7 @@
   {
     "repository"   : "kernel_xiaomi_picasso",
     "target_path"  : "kernel/xiaomi/picasso",
-    "remote"       : "pixel-devices",
+    "remote"       : "chen-bliss",
     "branch"       : "twelve"
   },
   {
